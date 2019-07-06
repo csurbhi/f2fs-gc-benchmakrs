@@ -8,9 +8,9 @@ numjobs=1
 time_based=1
 runtime=900
 per_job_logs=0
-write_bw_log=/home/surbhi/benchmarks/bg-gc/bs_4k/fio-test
-write_iops_log=/home/surbhi/benchmarks/bg-gc/bs_4k/fio-test
-write_lat_log=/home/surbhi/benchmarks/bg-gc/bs_4k/fio-test
+write_bw_log=/home/surbhi/benchmarks/bg_gc/bs_4k/fio-seq-read/fio-test
+write_iops_log=/home/surbhi/benchmarks/bg_gc/bs_4k/fio-seq-read/fio-test
+write_lat_log=/home/surbhi/benchmarks/bg_gc/bs_4k/fio-seq-read/fio-test
 bs=4k,4k
 
 [file1]
